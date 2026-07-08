@@ -1,5 +1,8 @@
 # Apache Airflow Multi-Team bulk update authorization gap
+## Public references
 
+- Apache Airflow PR #68573: https://github.com/apache/airflow/pull/68573
+- Apache Airflow 3.3.0 release notes: https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html
 ## Status
 
 Confirmed by Apache Airflow maintainers and fixed before release.
